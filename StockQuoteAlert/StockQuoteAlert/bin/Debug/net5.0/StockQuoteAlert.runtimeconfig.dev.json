@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\walis\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\walis\\.nuget\\packages"
+    ]
+  }
+}
